@@ -10,6 +10,7 @@ Programming lover 👨🏻‍💻, I love being able to create things through co
 	<img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 	<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23f7de1e" alt="JavaScript"/>
 	<img src="https://img.shields.io/badge/react-%2300c4e6.svg?&style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+	<img src="https://img.shields.io/badge/webpack-%235194f2.svg?&style=for-the-badge&logo=webpack&logoColor=white" alt="Webpack"/>
 	<img src="https://img.shields.io/badge/node%2Ejs-%2362af43.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
 	<img src="https://img.shields.io/badge/python-%233a75a5.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 	<img src="https://img.shields.io/badge/php-%233353b5.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
