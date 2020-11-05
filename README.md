@@ -4,7 +4,7 @@ I am a Full Stack developer,i like build tools that helper a companies or people
 
 Programming lover 👨🏻‍💻, I love being able to create things through code, I love challenges and being able to be in different projects from different industries and thus learn new things from each project, I also have a great passion for animation and 3d modeling.
 
- **🏅&nbsp;&nbsp;&nbsp;Skills:**
+ <h3>🏅&nbsp;&nbsp;&nbsp;Skills:</h3>
   </br>    
     <img src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 	<img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -17,7 +17,7 @@ Programming lover 👨🏻‍💻, I love being able to create things through co
 	<img src="http://img.shields.io/badge/mysql-7353b5.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 
-**My social networking:**
+<h3>My social networking:</h3>
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/camilo_mon1992/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/camilomoncada92/)
