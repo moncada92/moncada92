@@ -14,6 +14,7 @@ Programming lover 👨🏻‍💻, I love being able to create things through co
 	<img src="https://img.shields.io/badge/node%2Ejs-%2362af43.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS"/>
 	<img src="https://img.shields.io/badge/python-%233a75a5.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 	<img src="https://img.shields.io/badge/php-%233353b5.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+	<img src="https://img.shields.io/badge/typescript-%235194f2.svg?&style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
 	<img src="https://img.shields.io/badge/mongodb-%2368a14a.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
 	<img src="http://img.shields.io/badge/mysql-7353b5.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
